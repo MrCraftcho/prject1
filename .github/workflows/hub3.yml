@@ -1,4 +1,4 @@
-trner: hub3
+name: hub3
 on:
   workflow_dispatch:
 
